@@ -10,7 +10,7 @@ Uses grep to parce the IPs and curl to make the requests for geolocation.
 Only works in Linux and Mac.
 
 # Usage
-ruby find_ip.rb
+    ruby find_ip.rb
 
 Then enter the path of the txt file with the IPs.
 
