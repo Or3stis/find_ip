@@ -1,5 +1,5 @@
 # find_ip
-IP parcer and geolocator using ruby and system commands. No external library needed.
+IP parser and geolocator using ruby and system commands. No external library needed.
 
 Simple script that parces the IP addresses from a text file.
 
